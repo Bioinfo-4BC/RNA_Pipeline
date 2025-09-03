@@ -12,10 +12,15 @@ codes/RNA_Vis_V3_P.py
 
 Installation:
 Edit RNA_Module.py to set the path to the RNA pipeline directory.
+
 Path edits in the following scripts:
+
 codes/RNA_module.py
+
 ushellpipe.py
+
 codes/RNA_QC_P.py
+
 Common_RNA_Fusion/CRF_script.sh
 
 Execution:
