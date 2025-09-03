@@ -38,3 +38,9 @@ Roadmap:
 5. If yes, mount basespace
 6. Copy files from basespace to local directory, run QC
 7. Create fusion files and HTML reports
+
+Note for importing module:
+
+Some systems don't accept import code.RNA_Module.
+In order to get around this, add codes/ to the home directory path, remove codes. from the import statement across the scripts.
+This may require editing the Filter database location.
