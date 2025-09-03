@@ -8,7 +8,7 @@ codes/RNA_module.py
 ushellpipe.py
 codes/RNA_QC_P.py
 codes/RNA_DS_P.py
--> codes/RNA_Vis_V3_P.py
+codes/RNA_Vis_V3_P.py
 
 Installation:
 Edit RNA_Module.py to set the path to the RNA pipeline directory.
