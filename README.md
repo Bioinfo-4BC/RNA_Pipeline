@@ -23,6 +23,12 @@ codes/RNA_QC_P.py
 
 Common_RNA_Fusion/CRF_script.sh
 
+Ideogram and gene track file paths need to be changed in RNA_Vis_V3, as well as the hg19.fasta path
+eg.
+        fasta_file = '/home/ubuntu/Freebayes_Test_Runs/Common_files/hg19.fasta'
+        ideogram_file = '/home/ubuntu/Programs/IGV_Linux_2.9.2/igv/genomes/hg19/cytoBand.txt'
+        gene_track = '/home/ubuntu/Programs/IGV_Linux_2.9.2/igv/genomes/hg19/ncbiRefGene.txt'
+
 Execution:
 python3 ushellpipe.py [arg1] [arg2]
 arg1: AWS bucket ID
